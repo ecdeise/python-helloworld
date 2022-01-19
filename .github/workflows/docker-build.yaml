@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ecdeise/python-helloworld:latest
+          tags: ecdeise/python-helloworld:v1.0.0
