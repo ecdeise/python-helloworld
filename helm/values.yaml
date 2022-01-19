@@ -1,0 +1,8 @@
+namespace:
+  name: test
+ 
+image:
+  repository: ecdeise/python-helloworld 
+  tag: v1.0.1
+
+replicaCount: 3
