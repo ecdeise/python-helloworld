@@ -34,7 +34,7 @@ def metrics():
 def hello():
     app.logger.info('Main request successfull')
 
-    return "Hello World! Test"
+    return "Hello World! Test 1"
 
 
 if __name__ == "__main__":
